@@ -57,8 +57,9 @@ h1 {
         }
 
 h2 {
+    font-family: Georgia, serif;
     color: #ebebeb;
-    font-size: 28px;
+    font-size: 34px;
     text-transform: uppercase;
 
     margin-bottom: 1em;
@@ -268,7 +269,7 @@ section {
         bottom: 0;
         left: 0;
         z-index: 10;
-        background: rgba(0,0,0,0.8);
+        background: #000;
     }
         .bekkopenItem-image figcaption span {
             position: absolute;
@@ -329,3 +330,47 @@ section {
     background: #fd5158;
     margin: 0 auto 1em auto;
 }
+
+.topLink {
+    display: block;
+    position: relative;
+    background: #424242;
+    white-space: nowrap;
+    text-indent: 100%;
+    overflow: hidden;
+    width: 60px;
+    height: 60px;
+}  
+    .topLink i {
+        display: block;
+        position: absolute;
+        top: 10px;
+        height: 40px;
+        width: 3px;
+        left: 50%;
+        margin: 0 0 0 -1px;
+        background: #ddd;
+    } 
+
+    .topLink i:before,
+    .topLink i:after {
+        content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        height: 30px;
+        width: 3px;
+        background: #ddd;
+        transform-origin: 50% 0;
+    } 
+
+    .topLink i:before {
+        transform: rotate(45deg);
+        left: 1px;
+    }
+
+
+    .topLink i:after {
+        transform: rotate(-45deg);
+        left: -1px;
+    }
