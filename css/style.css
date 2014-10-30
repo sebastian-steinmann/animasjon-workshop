@@ -1,0 +1,10 @@
+/*  Din css her? */
+
+.btn {
+	transition: background 0.3s ease;
+}
+
+.btn:hover {
+	background: #df565b;
+	width: 200px;
+}

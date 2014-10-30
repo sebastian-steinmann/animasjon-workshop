@@ -1,0 +1,649 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"trig",
+				"triggerEl"
+			],
+			[
+				"rq",
+				"require"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"time",
+				"timeStorage"
+			],
+			[
+				"sum",
+				"sumByKey"
+			],
+			[
+				"filt",
+				"filterObjectByKey"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"prop",
+				"properties"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"cel",
+				"cellpadding	Attr"
+			],
+			[
+				"c",
+				"cellpadding	Attr"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"destina",
+				"destinationEl"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"node",
+				"nodeType"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"sw",
+				"swapBack"
+			],
+			[
+				"Nav",
+				"NavigatorModel"
+			],
+			[
+				"Even",
+				"EventModel"
+			],
+			[
+				"inli",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8126,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sebastian steinmann.BEKKNO/Documents/norgeskart.svg",
+			"settings":
+			{
+				"buffer_size": 57867,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/menu.js",
+			"settings":
+			{
+				"buffer_size": 571,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/base.css",
+			"settings":
+			{
+				"buffer_size": 5610,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/reset.css",
+			"settings":
+			{
+				"buffer_size": 2125,
+				"line_ending": "Windows",
+				"name": "/**"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 599.0,
+		"selected_items":
+		[
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"INDE",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inded",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 1024.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/projects/animasjon-workshop",
+		"/C/projects/animasjon-workshop/css",
+		"/C/projects/animasjon-workshop/js"
+	],
+	"file_history":
+	[
+		"/C/projects/animasjon-workshop/js/search.js",
+		"/C/projects/animasjon-workshop/css/style.css",
+		"/C/projects/animasjon-workshop/js/menu.js",
+		"/C/projects/Bekk.Forside/Bekk.Forside.Web/Content/img/logo.svg",
+		"/C/projects/Bekk.Forside/Bekk.Forside.Web/Content/img/search.svg",
+		"/C/projects/operaen/log.txt",
+		"/C/projects/kurs/app/js/timeController.js",
+		"/C/projects/Bekk.Forside/Bekk.Forside.Web/Web/Scripts/components/iframe/iframe.js",
+		"/C/projects/Bekk.Forside/Bekk.Forside.Web/Web/.jshintrc",
+		"/C/projects/Bekk.Forside/Bekk.Forside.Web/Bekk.Forside.Web.csproj",
+		"/C/Users/sebastian steinmann.BEKKNO/Downloads/google_5000000/google_5000000.txt",
+		"/C/projects/kurs/app/js/app.js",
+		"/C/projects/kurs/app/js/util.js",
+		"/C/projects/kurs/app/js/timestorage.js",
+		"/C/projects/kurs/index.html",
+		"/C/projects/kurs/dist/js/app.js",
+		"/C/projects/kurs/karma.conf.js",
+		"/C/projects/kurs/Gulpfile.js",
+		"/C/projects/kurs/test/unit/controllerSpec.js",
+		"/C/projects/kurs/app/js/timeStorage.js",
+		"/C/projects/kurs/steps/step-6-sourcemaps/Gulpfile.js",
+		"/C/projects/kurs/steps/step-3-concat/Gulpfile.js",
+		"/C/projects/kurs/steps/step-3-concat/TimeController.js",
+		"/C/projects/kurs/steps/step-4-live-reload/Gulpfile.js",
+		"/C/projects/kurs/.jshintrc",
+		"/C/projects/kurs/steps/step-4-concat/Gulpfile.js",
+		"/C/projects/kurs/steps/step-3-live-reload/Gulpfile.js",
+		"/C/projects/kurs/steps/step-1-gulp-init/Gulpfile.js",
+		"/C/projects/kurs/steps/step-minifisere/Gulpfile.js",
+		"/C/projects/kurs/app/js/TimekeeperController.js",
+		"/C/projects/kurs/app/js/TimestorageFactory.js",
+		"/C/projects/kurs/steps/step-5-test/karma.conf.js",
+		"/C/projects/kurs/steps/start-app/app.js",
+		"/C/projects/kurs/app/js/TimeController.js",
+		"/C/projects/kurs/steps/step-3-live-reload/readme.md",
+		"/C/projects/angular-phonecat/test/unit/controllersSpec.js",
+		"/C/projects/angular-phonecat/test/karma.conf.js",
+		"/C/projects/kurs/dist/js/bundle.js",
+		"/C/projects/kurs/steps/step-1-gulp-init/jshintrc",
+		"/C/projects/kurs/steps/step-2-watch/Gulpfile.js",
+		"/C/projects/kurs/steps/step-4-concat/app.js",
+		"/C/projects/dings/app/js/shows/showFactory.js",
+		"/C/projects/dings/app/js/shows/showController.js",
+		"/C/projects/kurs/steps/step-3-live-reload/live-reload.js",
+		"/C/projects/kurs/readme.txt",
+		"/C/projects/kurs/live-reload.js",
+		"/C/projects/kurs/package.json",
+		"/C/projects/angular-phonecat/test/e2e/README.md",
+		"/C/projects/dings/app/js/app.js",
+		"/C/projects/dings/index.html",
+		"/C/projects/dings/dist/js/app.js",
+		"/C/projects/dings/package.json",
+		"/C/Users/sebastian steinmann.BEKKNO/AppData/Roaming/npm/node_modules/bower/lib/util/cmd.js",
+		"/C/projects/angular-gulp-seed/package.json",
+		"/C/projects/angular-gulp-seed/app/scripts/main.js",
+		"/C/projects/angular-gulp-seed/Gulpfile.js",
+		"/C/projects/angular-gulp-seed/app/index.html",
+		"/C/projects/angular-gulp-seed/.jshintrc",
+		"/C/projects/angular-phonecat/test/e2e/scenarios.js",
+		"/C/projects/angular-phonecat/app/js/controllers.js",
+		"/C/projects/angular-phonecat/app/js/app.js",
+		"/C/projects/angular-phonecat/app/index.html",
+		"/C/projects/.gitconfig",
+		"/C/projects/angular-phonecat/npm-debug.log",
+		"/C/projects/angular-phonecat/bower.json",
+		"/C/projects/angular-phonecat/.bowerrc",
+		"/C/projects/angular-phonecat/.travis.yml",
+		"/C/projects/angular-phonecat/package.json",
+		"/C/projects/TypeTest/index.html",
+		"/C/Users/sebastian steinmann.BEKKNO/Desktop/menytest.html",
+		"/C/Users/sebastian steinmann.BEKKNO/Documents/Statnett/norgeskart copy.svg",
+		"/C/Users/sebastian steinmann.BEKKNO/Desktop/email/email.html",
+		"/C/projects/NyeStatnett/.git/rebase-apply/patch",
+		"/C/projects/NyeStatnett/.git/rebase-apply/0303",
+		"/C/projects/NyeStatnett/.git/rebase-apply/rewritten",
+		"/C/projects/NyeStatnett/.git/rebase-apply/rebasing",
+		"//openelec/Userdata/advancedsettings.xml",
+		"/C/Users/sebastian steinmann.BEKKNO/Downloads/lissie_opera_ipad_vod_ead8f135.m3u8",
+		"/C/Users/sebastian steinmann.BEKKNO/Downloads/ffc71b96-5362-4858-8955-afad9726ce04_Layer5_vod.m3u8",
+		"/C/svn/CustomerWeb/Trunk/STBMyPage/STBMyPage.Web/Scripts/STBMyPage/views/pages.js",
+		"/C/Users/sebastian steinmann.BEKKNO/Downloads/basic-email-template/stylesheets/email.css",
+		"/C/Users/sebastian steinmann.BEKKNO/Downloads/basic-email-template/basic.html",
+		"/C/Users/sebastian steinmann.BEKKNO/Desktop/email.html",
+		"/C/Metodekort/PDF/2ccfe4d9-e96e-417c-b529-00ecf7c44610/80b32237-e31b-44b2-b10f-52b11abf1888.html",
+		"/C/svn/CustomerWeb/Trunk/STBMyPage/STBMyPage.Web/Views/Home/NytegningBredband.cshtml",
+		"/C/Users/sebastian steinmann.BEKKNO/Desktop/STB/Min side STB_files/fonts.css",
+		"/C/Users/sebastian steinmann.BEKKNO/Desktop/STB/Min side STB_files/productlist.css",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/projects/STBMyPage/autodoc/index.html",
+		"/C/svn/CustomerWeb/Trunk/STBMyPage/STBMyPage.Web/Scripts/STBMyPage/out/data.json",
+		"/C/projects/STBMyPage/autodoc/docs.js",
+		"/C/Users/sebastian steinmann.BEKKNO/Desktop/perallenkode.js",
+		"/C/projects/frontend101/kurs1/del2/notater2.txt",
+		"/C/projects/frontend101/kurs1/del2/presentasjon/index.html",
+		"/C/projects/frontend101/kurs1/del2/oppgave/css/main.css",
+		"/C/projects/frontend101/kurs1/del1/losning/css/main.css",
+		"/C/projects/frontend101/kurs1/del2/losning/css/main.css",
+		"/C/Users/sebastian steinmann.BEKKNO/Desktop/STB/Min side STB_files/menu.css",
+		"/C/Users/sebastian steinmann.BEKKNO/Desktop/STB/Min side STB_files/product-grid.css",
+		"/C/Users/sebastian steinmann.BEKKNO/Desktop/STB/Min side STB_files/header.css",
+		"/C/Users/sebastian steinmann.BEKKNO/Desktop/STB/Min side STB2.htm",
+		"/C/projects/frontend101/kurs1/del1/oppgave/css/main.css",
+		"/C/Users/sebastian steinmann.BEKKNO/Dropbox/Operaen/abonnement.txt",
+		"/C/Users/sebastian steinmann.BEKKNO/Dropbox/Operaen/Pausebevertning/sprøsmål.txt",
+		"/C/projects/frontend101/kurs1/del2/notater.txt",
+		"/C/Users/sebastian steinmann.BEKKNO/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/sebastian steinmann.BEKKNO/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/sebastian steinmann.BEKKNO/Downloads/jquery-ui-1.10.4.custom/jquery-ui-1.10.4.custom/index.html",
+		"/C/projects/canaldigital/index.html",
+		"/C/projects/canaldigital/js/section.js",
+		"/C/projects/canaldigital/js/colorkeys.js",
+		"/C/Users/sebastian steinmann.BEKKNO/Dropbox/Canal Digital/notater 2.txt",
+		"/C/Users/sebastian steinmann.BEKKNO/Documents/responsive iframe testing/scripts/jquery.responsiveiframe.js",
+		"/C/Users/sebastian steinmann.BEKKNO/Dropbox/Operaen/Problemer.txt",
+		"/C/Users/sebastian steinmann.BEKKNO/AppData/Local/Temp/Temp1_litebox.zip/litebox.js",
+		"/C/svn/Development/Web/Logging/web.local.cdk.no/CDGeneralLog.txt",
+		"/C/Users/sebastian steinmann.BEKKNO/Documents/responsive iframe testing/_Testing/iframe.html",
+		"/C/Users/sebastian steinmann.BEKKNO/Documents/responsive iframe testing/_Testing/quest-short.html",
+		"/C/projects/canaldigital/js/menu.js",
+		"/C/projects/canaldigital/js/util.js",
+		"/C/projects/canaldigital/css/style.css",
+		"/C/svn/CustomerWeb/Trunk/CW/CW.Core.Web/Scripts/STBMyPage/util.js",
+		"/C/Users/sebastian steinmann.BEKKNO/Dropbox/Canal Digital/notater.txt",
+		"/C/Users/sebastian steinmann.BEKKNO/Dropbox/Operaen/tilbakemeldinger.txt",
+		"/C/projects/canaldigital/player_keyboard/vk/vk.js",
+		"/C/projects/canaldigital/player_keyboard.zip",
+		"/C/projects/canaldigital/js/events.js",
+		"/C/projects/canaldigital/js/navigation.js"
+	],
+	"find":
+	{
+		"height": 64.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"keyfig",
+			"GoogleAnalyticsController",
+			"Forestillinger/Don-Giovanni",
+			"mesteraften",
+			"steinmann.sebastian@gmail.com",
+			"mail.orsus@gmail.com",
+			"mail.orsus",
+			"\">\n",
+			"'",
+			"I'm",
+			" Set-EnvironmentVariable",
+			"<a",
+			"<a ",
+			"<a",
+			"width:",
+			"width",
+			"speach-icon",
+			"seper",
+			"line",
+			"background",
+			".navigation",
+			"navigation",
+			"question {",
+			"question",
+			"Element.",
+			"OutdoorChannel_100x100.png",
+			"History_100x100.png",
+			"FoodNetwork_HD_100x100.png",
+			"/Images/STBMyPage/channels",
+			"/Images/STBMyPage/icons/",
+			"ie",
+			"getDocHeight",
+			"colorkeys.js",
+			"this.ul",
+			"forms",
+			"'"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"Discovery_World_100x100.png",
+			"Discovery_Science_100x100v2.png",
+			"Discovery_Investigation_100.png",
+			"./Min side STB_files",
+			"",
+			"-"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7727,
+								7727
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5503.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/sebastian steinmann.BEKKNO/Documents/norgeskart.svg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43398,
+								43398
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 12097.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/menu.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/base.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4806.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/reset.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1391,
+								1391
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "animasjon-workshop.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"C:\\Users\\sebastian steinmann.BEKKNO\\Downloads\\basic-email-template\\stylesheets\\email.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 447.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
