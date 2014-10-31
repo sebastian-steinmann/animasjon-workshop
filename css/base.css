@@ -112,7 +112,7 @@ main p {
         cursor: pointer;
     }
 .header-search input {
-    width: 0;
+    display: none;
     background: transparent;
     border: none;
     border-bottom: 1px solid #515151;
@@ -127,7 +127,7 @@ main p {
         border-color: #fff;
     }
     .header-search.is-open input {
-        width: 150px;
+        display: inline-block;
     }
 
 .nav-button {
