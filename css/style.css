@@ -1,1 +1,27 @@
 /*  Din css her? */
+
+/*.btn:hover:before {
+	content: "";
+	display: inline-block;
+	border-radius: 50%;
+	border-left: 2px solid #ddd;
+	border-right: 2px solid #ddd;
+
+	width: 16px;
+	height: 16px;
+
+	margin-right: 1em;
+	-webkit-animation: spin 4s infinite linear;
+}
+
+@-webkit-keyframes spin {
+    0%  {
+    	-webkit-transform: rotate(0deg);
+    }
+    50% {
+    	border-color: red;
+    }
+    100% {
+    	-webkit-transform: rotate(360deg);
+    }   
+    }*/
