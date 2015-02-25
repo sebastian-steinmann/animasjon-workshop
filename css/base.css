@@ -107,7 +107,7 @@ main p {
         width: 35px;
         background: url("../img/search.svg") no-repeat center left;
         background-size: 20px;
-        height: 21px;
+        height: 22px;
         vertical-align: middle;
         cursor: pointer;
     }
@@ -136,13 +136,13 @@ main p {
     display: inline-block;
     width: 27px;
     height: 22px;
-    margin-top: -2px;
     padding: 0;
+    vertical-align: middle;
 }
 .nav-button i {
     position: relative;
     display: block;
-    top: 7px;
+    top: 0;
 
     width: 27px;
     height: 3px;
@@ -229,7 +229,7 @@ main p {
     border-bottom: 1px solid transparent;
 }
 .nav a:hover,
-.nav a:hover {
+.nav a:focus {
     color: $fff;
     border-bottom-color: #df565b;
 }
